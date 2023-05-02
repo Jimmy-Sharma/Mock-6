@@ -83,5 +83,14 @@
       "id": 7
     }
   ],
-  "products":[]
+  "products":[
+    {
+      "id": 1,
+      "Name": "Tata",
+      "Catergory": 2019,
+			"Gender":"Male",
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    }
+  ]
 }
