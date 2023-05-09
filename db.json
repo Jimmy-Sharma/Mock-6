@@ -1,96 +1,19 @@
 {
-  "cars": [
+  "employees": [
     {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    },
-    {
-      "id": 2,
-      "brand": "Audi",
-      "type": "AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
-    },
-    {
-      "id": 3,
-      "brand": "Mercedes",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    },
-    {
-      "id": 4,
-      "brand": "Audi",
-      "type": "AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
-    },
-    {
-      "id": 5,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    },
-    {
-      "id": 6,
-      "brand": "Mercedes",
-      "type": "AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
-    },
-    {
-      "brand": "Audi",
-      "type": "Automated",
-      "year": "2018",
-      "kms": "23",
-      "Description": "R8",
-      "Price": "3600000",
-      "id": 7
-    }
-  ],
-"wishlisted_cars": [
-    {
-      "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-			"type":"Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "First": "Prince",
+      "Last": "Sharma",
+      "Email": "prince@gmail.com",
+      "Department": "Tech",
+      "Salary": "10000000",
+      "id": 1
     },{
-      "brand": "Audi",
-      "type": "Automated",
-      "year": "2018",
-      "kms": "23",
-      "Description": "R8",
-      "Price": "3600000",
-      "id": 7
-    }
-  ],
-  "products":[
-    {
-      "id": 1,
-      "Name": "Tata",
-      "Catergory": 2019,
-			"Gender":"Male",
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "First": "Parash",
+      "Last": "Sharma",
+      "Email": "parash@gmail.com",
+      "Department": "Tech",
+      "Salary": "10000000",
+      "id": 2
     }
   ],
   "quiz":[
