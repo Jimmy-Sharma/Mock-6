@@ -1,4 +1,42 @@
 {
+  "users": [
+    {
+      "name": "Jimmy",
+      "email": "sulochnakujur1996@gmail.com",
+      "password": "qawsed",
+      "id": 1
+    },
+    {
+      "name": "Prince",
+      "email": "prince786no.1@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "parash",
+      "email": "prince7@gmail.com",
+      "password": "12345",
+      "id": 3
+    }
+  ],
+  "data": [
+    {
+      "type": "Income",
+      "category": "Gifts",
+      "date": "2023-05-19",
+      "amnt": "1001",
+      "email": "prince786no.1@gmail.com",
+      "id": 1
+    },
+    {
+      "type": "Income",
+      "category": "Gifts",
+      "date": "2023-05-19",
+      "amnt": "1001",
+      "email": "princeno.1@gmail.com",
+      "id": 1
+    }
+  ],
   "icecreams": [
     {
       "id": 1,
